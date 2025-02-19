@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jeremy Jaramillo\\source\\repos\\ProyectoFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E964FA-07EA-4C6F-927B-A3E91129394A}|ProyectoFinal.csproj|C:\\Users\\Jeremy Jaramillo\\source\\repos\\ProyectoFinal\\frmconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3E964FA-07EA-4C6F-927B-A3E91129394A}|ProyectoFinal.csproj|solutionrelative:frmconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E964FA-07EA-4C6F-927B-A3E91129394A}|ProyectoFinal.csproj|C:\\Users\\Jeremy Jaramillo\\source\\repos\\ProyectoFinal\\dise\u00F1o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E964FA-07EA-4C6F-927B-A3E91129394A}|ProyectoFinal.csproj|solutionrelative:dise\u00F1o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E964FA-07EA-4C6F-927B-A3E91129394A}|ProyectoFinal.csproj|C:\\Users\\Jeremy Jaramillo\\source\\repos\\ProyectoFinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E964FA-07EA-4C6F-927B-A3E91129394A}|ProyectoFinal.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E964FA-07EA-4C6F-927B-A3E91129394A}|ProyectoFinal.csproj|C:\\Users\\Jeremy Jaramillo\\source\\repos\\ProyectoFinal\\frmconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E964FA-07EA-4C6F-927B-A3E91129394A}|ProyectoFinal.csproj|solutionrelative:frmconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E964FA-07EA-4C6F-927B-A3E91129394A}|ProyectoFinal.csproj|C:\\Users\\Jeremy Jaramillo\\source\\repos\\ProyectoFinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3E964FA-07EA-4C6F-927B-A3E91129394A}|ProyectoFinal.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E964FA-07EA-4C6F-927B-A3E91129394A}|ProyectoFinal.csproj|c:\\users\\jeremy jaramillo\\source\\repos\\proyectofinal\\frmperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3E964FA-07EA-4C6F-927B-A3E91129394A}|ProyectoFinal.csproj|solutionrelative:frmperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E964FA-07EA-4C6F-927B-A3E91129394A}|ProyectoFinal.csproj|C:\\Users\\Jeremy Jaramillo\\source\\repos\\ProyectoFinal\\frmmensajeria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3E964FA-07EA-4C6F-927B-A3E91129394A}|ProyectoFinal.csproj|solutionrelative:frmmensajeria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E964FA-07EA-4C6F-927B-A3E91129394A}|ProyectoFinal.csproj|C:\\Users\\Jeremy Jaramillo\\source\\repos\\ProyectoFinal\\frmempleo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3E964FA-07EA-4C6F-927B-A3E91129394A}|ProyectoFinal.csproj|solutionrelative:frmempleo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E964FA-07EA-4C6F-927B-A3E91129394A}|ProyectoFinal.csproj|C:\\Users\\Jeremy Jaramillo\\source\\repos\\ProyectoFinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E964FA-07EA-4C6F-927B-A3E91129394A}|ProyectoFinal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmConexion.cs",
+              "DocumentMoniker": "C:\\Users\\Jeremy Jaramillo\\source\\repos\\ProyectoFinal\\FrmConexion.cs",
+              "RelativeDocumentMoniker": "FrmConexion.cs",
+              "ToolTip": "C:\\Users\\Jeremy Jaramillo\\source\\repos\\ProyectoFinal\\FrmConexion.cs",
+              "RelativeToolTip": "FrmConexion.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAawBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T00:53:26.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmMensajeria.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jeremy Jaramillo\\source\\repos\\ProyectoFinal\\FrmMensajeria.cs",
+              "RelativeDocumentMoniker": "FrmMensajeria.cs",
+              "ToolTip": "C:\\Users\\Jeremy Jaramillo\\source\\repos\\ProyectoFinal\\FrmMensajeria.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmMensajeria.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T00:52:02.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmConexion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jeremy Jaramillo\\source\\repos\\ProyectoFinal\\FrmConexion.cs",
+              "RelativeDocumentMoniker": "FrmConexion.cs",
+              "ToolTip": "C:\\Users\\Jeremy Jaramillo\\source\\repos\\ProyectoFinal\\FrmConexion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmConexion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T00:51:38.994Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmEmpleo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jeremy Jaramillo\\source\\repos\\ProyectoFinal\\FrmEmpleo.cs",
+              "RelativeDocumentMoniker": "FrmEmpleo.cs",
+              "ToolTip": "C:\\Users\\Jeremy Jaramillo\\source\\repos\\ProyectoFinal\\FrmEmpleo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmEmpleo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T00:51:06.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmPerfil.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jeremy Jaramillo\\source\\repos\\ProyectoFinal\\FrmPerfil.cs",
+              "RelativeDocumentMoniker": "FrmPerfil.cs",
+              "ToolTip": "C:\\Users\\Jeremy Jaramillo\\source\\repos\\ProyectoFinal\\FrmPerfil.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmPerfil.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T00:31:50.535Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jeremy Jaramillo\\source\\repos\\ProyectoFinal\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Jeremy Jaramillo\\source\\repos\\ProyectoFinal\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAASwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T16:28:43.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Jeremy Jaramillo\\source\\repos\\ProyectoFinal\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Jeremy Jaramillo\\source\\repos\\ProyectoFinal\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA5wEcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:10:59.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dise\u00F1o.cs",
+              "DocumentMoniker": "C:\\Users\\Jeremy Jaramillo\\source\\repos\\ProyectoFinal\\Dise\u00F1o.cs",
+              "RelativeDocumentMoniker": "Dise\u00F1o.cs",
+              "ToolTip": "C:\\Users\\Jeremy Jaramillo\\source\\repos\\ProyectoFinal\\Dise\u00F1o.cs",
+              "RelativeToolTip": "Dise\u00F1o.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:05:37.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jeremy Jaramillo\\source\\repos\\ProyectoFinal\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Jeremy Jaramillo\\source\\repos\\ProyectoFinal\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T04:18:37.183Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

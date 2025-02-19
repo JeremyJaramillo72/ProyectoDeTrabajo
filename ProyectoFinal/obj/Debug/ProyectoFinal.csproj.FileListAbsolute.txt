@@ -1,0 +1,14 @@
+C:\Users\Jeremy Jaramillo\source\repos\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\Jeremy Jaramillo\source\repos\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\Jeremy Jaramillo\source\repos\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\Jeremy Jaramillo\source\repos\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\Jeremy Jaramillo\source\repos\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\Jeremy Jaramillo\source\repos\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\Jeremy Jaramillo\source\repos\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy Jaramillo\source\repos\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\Jeremy Jaramillo\source\repos\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\Jeremy Jaramillo\source\repos\ProyectoFinal\obj\Debug\ProyectoFinal.bntPerfil.resources
+C:\Users\Jeremy Jaramillo\source\repos\ProyectoFinal\obj\Debug\ProyectoFinal.FrmPerfil.resources
+C:\Users\Jeremy Jaramillo\source\repos\ProyectoFinal\obj\Debug\ProyectoFinal.FrmConexion.resources
+C:\Users\Jeremy Jaramillo\source\repos\ProyectoFinal\obj\Debug\ProyectoFinal.FrmEmpleo.resources
+C:\Users\Jeremy Jaramillo\source\repos\ProyectoFinal\obj\Debug\ProyectoFinal.FrmMensajeria.resources
